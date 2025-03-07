@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=006400&random=false&width=435&height=40&lines=Welcome+to+my+codes.+)](https://git.io/typing-svg)
+<!-- About Section -->
+## ⌕ About me
+Hello, my name is Thiago. I am a Computer Science student at Faculdade das Americas - FAM, currently focused on enhancing my Full Stack programming skills. Follow me to stay updated on my future projects.
 
-<!--
-**thiagotorresz/thiagotorresz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Skills Section -->
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=php,react,nodejs,js,tailwind,mysql,py,html,css)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Connect Section -->
+## Connect with me!
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light&size=10)](https://www.linkedin.com/in/thiagotorresz/) 
+[![E-mail](https://skillicons.dev/icons?i=gmail&theme=light&size=10)](mailto:torrestube093@gmail.com)

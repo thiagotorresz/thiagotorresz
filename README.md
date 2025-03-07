@@ -6,7 +6,7 @@ Hello, my name is Thiago. I am a Computer Science student at Faculdade das Ameri
 
 <!-- Skills Section -->
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=php,react,nodejs,js,tailwind,mysql,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,react,nodejs,js,tailwind,laravel,mysql,py,html,css)](https://skillicons.dev)
 
 <!-- Connect Section -->
 ## Connect with me!
